@@ -1,0 +1,11 @@
+Object
+* Data structure
+* It matches an object or thing in the real world
+* Has properties (attributes, fields, member variables) which describe it or belong to it
+* Has functions (methods, subroutines) which do things, usually with its properties
+* An implementation of a class. Classes do not achieve anything until they are converted into an object in code
+
+Classes
+* A blueprint of an object
+* Has properties (attributes, fields, member variables) which describe it or belong to it
+* Has functions (methods, subroutines) which do things, usually with its properties
