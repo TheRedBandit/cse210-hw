@@ -19,5 +19,5 @@ class Program
         Fractions Frac4 = new Fractions(1,3);
         Console.WriteLine(Frac4.GetFractionString());
         Console.WriteLine(Frac4.GetDecimalValue());
-    }
+    }  
 }
